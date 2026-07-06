@@ -12,3 +12,5 @@ REDIS_URL = os.getenv("REDIS_URL")
 
 # Authentication
 SECRET_KEY = os.getenv("SECRET_KEY")
+
+MONGO_URL = os.getenv("MONGO_URL")
