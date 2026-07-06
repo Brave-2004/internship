@@ -1,0 +1,89 @@
+INFO:     Started server process [921080]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:36490 - "POST /auth/register HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36492 - "POST /auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36504 - "POST /department/createDepartment HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36508 - "POST /department/createDepartment HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36520 - "POST /department/createDepartment HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36532 - "POST /department/createDepartment HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36536 - "POST /department/createDepartment HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36544 - "GET /department/allDepartments HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36554 - "POST /teacher/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36566 - "POST /teacher/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36582 - "POST /teacher/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36586 - "POST /teacher/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36590 - "POST /teacher/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36600 - "POST /teacher/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36616 - "POST /teacher/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36626 - "POST /teacher/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36638 - "POST /teacher/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36646 - "POST /teacher/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36654 - "GET /teacher/list HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36660 - "POST /api/student/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36664 - "POST /api/student/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36674 - "POST /api/student/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36682 - "POST /api/student/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36692 - "POST /api/student/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36694 - "POST /api/student/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36708 - "POST /api/student/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36712 - "POST /api/student/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36716 - "POST /api/student/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36726 - "POST /api/student/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36736 - "POST /api/student/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36748 - "POST /api/student/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36750 - "POST /api/student/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36764 - "POST /api/student/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36776 - "POST /api/student/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36788 - "POST /api/student/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36794 - "POST /api/student/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36804 - "POST /api/student/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36820 - "POST /api/student/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36830 - "POST /api/student/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36846 - "POST /auth/register HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36850 - "POST /auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36866 - "GET /api/student/students HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36882 - "POST /course/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36896 - "POST /course/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36900 - "POST /course/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36914 - "POST /course/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36926 - "POST /course/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36940 - "POST /course/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36944 - "POST /course/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36960 - "POST /course/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36968 - "POST /course/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36972 - "POST /course/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36978 - "POST /course/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36980 - "POST /course/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36994 - "POST /course/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37002 - "GET /course/courses HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37014 - "POST /enrollment/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37030 - "POST /enrollment/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37034 - "POST /enrollment/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37048 - "POST /enrollment/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37056 - "POST /enrollment/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37064 - "POST /enrollment/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37080 - "POST /enrollment/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37094 - "POST /enrollment/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37100 - "POST /lesson/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37112 - "POST /lesson/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37126 - "GET /lesson/list HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37128 - "POST /assignment/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37136 - "GET /assignment/list HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37138 - "GET /assignment/list HTTP/1.1" 200 OK
+[EMAIL] To: student_1@uni.edu
+[EMAIL] Subject: Submission Received — Assignment #1
+[EMAIL] Body: Your submission for 'Assignment #1' has been received successfully.
+INFO:     127.0.0.1:37150 - "POST /submission/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37166 - "GET /submission/list HTTP/1.1" 200 OK
+[EMAIL] To: student_1@uni.edu
+[EMAIL] Subject: Grade Posted — Assignment #1
+[EMAIL] Body: Score: 95.0 | Feedback: Excellent
+INFO:     127.0.0.1:37170 - "PUT /submission/grade/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37182 - "POST /notification/create HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37192 - "POST /comment/create HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [921080]
